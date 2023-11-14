@@ -28,8 +28,8 @@ Step 7: Save and run the application.
 ## PROGRAM:
 ```
 Program to print the client/server services using AIDL”.
-Developed by : M Gautham
-Registeration Number : 212221230027
+DEVELOPED BY : M Hari Krishna
+REG.NO   : 212221230059.
 ```
 ### AIDLColorService.java :
 ```
