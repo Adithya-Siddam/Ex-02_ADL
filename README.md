@@ -1,4 +1,4 @@
-# Ex.No:03 Create a simple application client and server service using AIDL interface in android studio.
+# Ex.No:02 Create a simple application client and server service using AIDL interface in android studio.
 
 
 ## AIM:
@@ -28,8 +28,8 @@ Step 7: Save and run the application.
 ## PROGRAM:
 ```
 Program to print the client/server services using AIDL”.
-DEVELOPED BY : M Hari Krishna
-REG.NO   : 212221230059.
+DEVELOPED BY : S Adithya Chowdary.
+REG.NO   : 212221230100.
 ```
 ### AIDLColorService.java :
 ```
